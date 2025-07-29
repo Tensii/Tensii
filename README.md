@@ -1,5 +1,98 @@
-# 💫 About Me:
-👋 Hi, I'm Eyad Ayoub<br>🔐 CEO of Pentix | Security Researcher | Bug Hunter<br>👨‍💻 I'm currently working on leading Pentix, a cybersecurity company protecting organizations from evolving cyber threats<br>🌱 I'm currently pursuing my Bachelor's in Computer Science at NHL Stenden University<br>💼 Previous Security Researcher at Resecurity, focusing on:<br><br>Web, API, and Mobile Application Security<br>Vulnerability Assessment<br>Cyber Intelligence<br>Network Security Audits<br><br>🏆 Featured in Hall of Fame:<br><br>Google VRP<br>Sony<br>IBM<br>Pfizer<br>TIDAL<br>And more...
+# 👋 Hi, I'm Eyad Ayoub
+
+🔐 Cybersecurity Consultant | Penetration Tester | Bug Hunter  
+📍 Based in Dammam, Saudi Arabia  
+📧 tensi4@protonmail.com | [LinkedIn](https://www.linkedin.com/in/tensi4)
+
+---
+
+## 👨‍💻 About Me
+
+I'm a cybersecurity professional with over three years of hands-on experience in offensive security, penetration testing, and vulnerability research across web, mobile, API, network, and thick client environments. I specialize in identifying complex security issues and delivering practical remediation strategies tailored to business needs.
+
+I actively participate in bug bounty programs and CTFs, continuously honing my skills to stay ahead of evolving cyber threats. I thrive in collaborative environments and enjoy bridging technical depth with client-focused consulting.
+
+---
+
+## 🎓 Education
+
+💻 Bachelor's in Computer Engineering (In Progress)  
+📍 El-Neelain University, Sudan
+
+---
+
+## 💼 Experience
+
+**Cybersecurity Consultant @ Pentix (2024 – Present)**  
+- Performed security assessments across web, mobile, API, and thick client environments  
+- Delivered risk analysis and security advisory to clients  
+- Developed internal security methodologies and testing guidelines  
+- Collaborated closely with technical and sales teams to define scope and delivery plans
+
+**Security Researcher @ Resecurity (2022 – 2023)**  
+- Conducted research in web, mobile, and API security  
+- Used cyber intelligence techniques to uncover vulnerabilities  
+- Performed detailed audits of network infrastructure  
+- Leveraged automated tools to identify real-world threats
+
+**Penetration Tester @ CyberGulf (2024)**  
+- Executed black-box and gray-box penetration tests on web and mobile applications  
+- Standardized testing processes and reporting within the team  
+- Assisted in client-facing discussions to define technical requirements
+
+**Bug Hunter @ HackerOne (2022 – Present)**  
+- Reported valid security bugs to multiple high-profile programs  
+- Recognized in multiple Hall of Fame acknowledgements
+
+---
+
+## 🛠️ Skills
+
+- **Penetration Testing:** Web, Mobile, API, Network, Thick Clients  
+- **Languages:** Python, Bash, Go, C/C++, Java, JavaScript  
+- **Android Security:** Frida, Burp Suite, MobSF, Drozer, APKTool, JADX  
+- **Tooling:** Burp Suite, Nmap, Metasploit, Wireshark, ADB, Ghidra, IDA  
+- **Methodologies:** OWASP Top 10, MITRE ATT&CK, Secure SDLC  
+- **Competitive Cybersecurity:** Active in CTFs and security competitions  
+
+---
+
+## 📜 Certifications
+
+- eLearnSecurity Mobile Application Penetration Tester (eMAPT)  
+- Certified Application Security Practitioner (CAP)  
+- API Certified Expert (ACE)
+
+---
+
+## 🏅 Hall of Fame & Acknowledgements
+
+Recognized by major organizations for responsibly disclosed vulnerabilities:
+
+- Google VRP  
+- Sony  
+- IBM  
+- Pfizer  
+- TIDAL  
+- Nominet  
+- Montea  
+- Epic Games  
+- Global Organizations
+
+---
+
+## 🌱 Currently Exploring
+
+- Cloud Security (AWS/GCP/Azure)  
+- Defensive Security (SIEM, SOC operations, Incident Response)  
+- Governance, Risk, and Compliance (GRC Frameworks)
+
+---
+
+## 🔗 Let's Connect!
+
+Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/tensi4) or via [Email](mailto:tensi4@protonmail.com). Always open to collaborations, bug bounties, or just a cybersecurity chat!
+
 
 
 ## 🌐 Socials:
