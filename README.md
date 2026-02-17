@@ -144,6 +144,14 @@ Recognized by major organizations for responsibly disclosed vulnerabilities:
 
 ---
 
+## ✨ Featured
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tensii&repo=eyad-profile&theme=blue-green&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tensii&repo=Resources-for-Beginner-Bug-Bounty-Hunters&theme=blue-green&hide_border=true" />
+</div>
+
+---
 <div align="center">
 
 ### 📊 GitHub Stats
@@ -156,13 +164,8 @@ Recognized by major organizations for responsibly disclosed vulnerabilities:
 
 <br/>
 
-<!-- Eye-candy: activity graph + trophies -->
+<!-- Eye-candy: activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tensii&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tensii&theme=matrix&no-frame=true&no-bg=true&column=6" alt="Trophies" />
-
-<!-- View counter -->
-<img src="https://komarev.com/ghpvc/?username=Tensii&style=for-the-badge&color=00ff41" alt="Profile views" />
 
 </div>
 
