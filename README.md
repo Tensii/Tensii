@@ -152,7 +152,6 @@ Recognized by major organizations for responsibly disclosed vulnerabilities:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tensii&theme=blue-green&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tensii&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 <br/>
 
