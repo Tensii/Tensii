@@ -144,14 +144,6 @@ Recognized by major organizations for responsibly disclosed vulnerabilities:
 
 ---
 
-## ✨ Featured
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tensii&repo=eyad-profile&theme=blue-green&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tensii&repo=Resources-for-Beginner-Bug-Bounty-Hunters&theme=blue-green&hide_border=true" />
-</div>
-
----
 <div align="center">
 
 ### 📊 GitHub Stats
