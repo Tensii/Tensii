@@ -14,7 +14,8 @@
 📍 Dammam, Saudi Arabia · 📧 **tensi4@protonmail.com**
 
 <a href="https://eyad-profile-sigma.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=0d0d0d" /></a>
-<a href="https://www.linkedin.com/in/tensi4"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d0d0d" /></a>
+<a href="https://www.linkedin.com/in/tensi4"><img alt="LinkedIn" src="https://img.icons8.com/color/48/linkedin.png" height="28" /></a>
+<a href="https://www.linkedin.com/in/tensi4"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logoColor=00ff41&labelColor=0d0d0d" /></a>
 <a href="mailto:tensi4@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=protonmail&logoColor=00ff41&labelColor=0d0d0d" /></a>
 <a href="https://discord.gg/tensi6369"><img alt="Discord" src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=00ff41&labelColor=0d0d0d" /></a>
 
@@ -152,6 +153,16 @@ Recognized by major organizations for responsibly disclosed vulnerabilities:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tensii&theme=blue-green&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tensii&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+<br/>
+
+<!-- Eye-candy: activity graph + trophies -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tensii&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tensii&theme=matrix&no-frame=true&no-bg=true&column=6" alt="Trophies" />
+
+<!-- View counter -->
+<img src="https://komarev.com/ghpvc/?username=Tensii&style=for-the-badge&color=00ff41" alt="Profile views" />
 
 </div>
 
